@@ -1,0 +1,15 @@
+{
+  "Value": {
+    "SamsungDataScraping.xaml": [
+      {
+        "IsEnabled": true,
+        "Annotation": null,
+        "Id": "e14c4c11-1ac3-449b-b092-f1b20827fade",
+        "ActivityIdRef": "Sequence_36",
+        "ActivityId": "1.2",
+        "ActivityName": "PriceComparisonProcess",
+        "IsTransient": false
+      }
+    ]
+  }
+}
